@@ -1,0 +1,30 @@
+Generated with built-in image_gen.
+
+Use case: infographic-diagram.
+Transform the attached photograph of a bird seed husk separator SIDE VIEW into an elegant, restrained FLAT ORTHOGRAPHIC side-view explanatory plate. Input photo is structural reference/edit target; discard photographic appearance, background, perspective and red scribbles. Preserve the actual side silhouette and internal baffle arrangement; do not replace it with a generic separate hopper and external fan diagram.
+
+White background, landscape 3:2 canvas. Center the tall machine side elevation, occupying about 40% canvas width and 70% height. Balanced explanatory callouts arranged around it, thin gray horizontal leader lines, spacious margins. Premium industrial design manual aesthetic: accurate geometry, quiet typography, very thin dark teal outlines and extremely pale teal flat fills on solid frame only. White transparent chamber, zero texture/shadow/gradient/3D. Chinese sans-serif type, modest heading, no bold oversized labels, no decorative numbering.
+
+Study and reproduce reference topology:
+- Tall rectangular housing.
+- Broad trapezoidal hopper on top, narrowing downward.
+- Inside upper chamber, a long inclined feed guide descending from UPPER RIGHT toward CENTER LEFT, ending above the separation gap; include the short opposing hopper neck edge as shown.
+- Fan integrated along the RIGHT wall at the upper-middle separation height, shown edge-on as a narrow vertical rectangular element, not a frontal propeller and not outside housing.
+- Airflow points from RIGHT TO LEFT across the separation gap (critical).
+- Below gap, another inclined deflector runs from CENTER LEFT downward to CENTER RIGHT and joins the central vertical divider.
+- Bottom two collection compartments: LEFT compartment lower rim, RIGHT compartment higher rim, matching photograph. They remain integrated inside rectangular housing. No detached bowls.
+- Few ochre grain dots follow feed guide down-left into gap then settle onto lower deflector and descend down-right into right compartment. Few small gray curved husks deflect LEFT with airflow then fall into left compartment. Paths must not run through solid baffles. Use one thin ochre grain trajectory arrow, one thin gray husk trajectory, and two restrained teal leftward airflow arrows; sparse particles.
+- Omit screws or reduce to tiny unobtrusive circles.
+
+Text verbatim:
+Top left title: "鸟粮吹壳机"
+Below title: "侧视结构与分离原理"
+Upper left callout pointing hopper: "投料" / "剩粮与空壳由顶部进入"
+Upper right callout pointing upper inclined guide: "导料斜面" / "引导混合物进入分离区"
+Mid right callout pointing fan and teal LEFTWARD arrows: "横向气流" / "从右向左吹过下落的粮食"
+Mid left callout pointing leftward husk path: "空壳偏移" / "较轻的空壳随气流向左"
+Lower right callout pointing lower inclined deflector: "谷粒下落" / "较重的谷粒落下，沿斜面进入收集盒"
+Below left compartment label: "空壳收集"
+Below right compartment label: "谷粒收集"
+Very small bottom footnote: "依据侧视照片绘制，颗粒轨迹为原理示意"
+Ensure callouts do not intersect machine silhouette except precise leader endpoints and never overlap each other. Favor simplicity and visual hierarchy. No marketing slogans, invented technical specifications or background decoration. Final should feel elegant, calm, geometric and faithful to the provided actual side-view structure.

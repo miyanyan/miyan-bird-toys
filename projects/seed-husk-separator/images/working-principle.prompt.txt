@@ -1,0 +1,19 @@
+Generated with built-in image_gen.
+
+Use case: infographic-diagram
+Asset type: Chinese explanatory image for a GitHub project documenting a bird seed husk separator.
+Create a polished, accurate, easy-to-understand landscape 3:2 principle illustration with crisp simplified Chinese typography, off-white background, restrained turquoise machine/airflow accents, golden filled grain kernels, pale tan curved hollow husks. Clean editorial technical illustration with subtle depth, generous spacing. This is an abstract working principle, NOT an exact engineering cutaway of an actual machine.
+Main title verbatim: "鸟粮吹壳机"
+Subtitle verbatim: "用气流分开剩粮与空壳"
+Central large schematic: a hopper at top center contains a visible mix of solid golden whole seeds and pale hollow curved husks. Mix falls downward into an open schematic separation chamber. A clearly illustrated small fan to the LEFT blows turquoise horizontal arrows LEFT TO RIGHT across the falling mix. Heavier full grains follow a mostly vertical downward path into a collection bin directly below the hopper, with small lateral deflection. Lightweight husks follow a strongly rightward curving path into a SEPARATE right-hand bin. All arrows agree with this physical direction. Both bins are within composition, unobstructed and unmistakably separated. Make the two particle types visually distinct with close-up icons in a small legend.
+Place these exact clear labels by corresponding elements, without overlaps:
+"① 倒入剩粮与空壳" near hopper.
+"② 气流分离" by fan airflow.
+"谷粒较重，偏移较小" along vertical grain trajectory.
+"空壳较轻，更易随气流偏移" along rightward husk trajectory.
+"③ 分别收集" above bins.
+"剩余谷粒" below left grain bin.
+"分离出的空壳" below right husk bin.
+Small bottom legend text: "金色：谷粒    浅褐色：空壳    蓝绿色箭头：气流"
+Bottom footnote verbatim: "原理示意，非实物内部结构；实际效果受粮种、风力与进料速度影响。"
+No claims of sterilization, food safety, 100% separation or measured efficiency. No dimensions, made-up settings, wires, exploded assembly, branding or unnecessary decorative birds. Visual storytelling should be immediately legible.

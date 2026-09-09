@@ -1,0 +1,3 @@
+Edited with built-in image_gen; original retained as overview-blue.jpg.
+
+Edit this image by cropping away ONLY the outer white rectangular border. The actual photographic rectangle begins at approximately x=626,y=161 and ends x=4098,y=4785 in the 4685x5040 source. Output just that inner portrait 3:4 photograph edge-to-edge, with no white mat or frame. Preserve the actual photograph, product geometry, screws, mesh, transparent panel, colors, lighting, shadows, gray background, and all details as faithfully as possible. No retouching, no redesign, no added or removed objects, no stretching, no text. This is solely a border crop.

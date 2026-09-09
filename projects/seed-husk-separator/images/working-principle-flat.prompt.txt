@@ -1,0 +1,15 @@
+Generated with built-in image_gen.
+
+Redesign this bird seed husk separator explanation as an extremely simple, restrained 2D flat technical diagram. The input is an edit target for its CONTENT ONLY; entirely replace its ornate illustration style and layout. Landscape 3:2 white background. Plain black/dark-gray thin uniform strokes, muted teal for airflow only, muted ochre solid tiny ellipses for seeds, light-gray small curved line marks for husks. No 3D, no gradients, no shadows, no realistic textures, no decorative boxes, no huge fan, no pictorial rendering, no poster styling. Like a thoughtfully typeset diagram in a clean engineering manual. Ample white space, precise alignments, quiet sans-serif Chinese typography.
+
+Top left modest title: "鸟粮吹壳机 · 分离原理".
+Below it smaller subtitle: "利用气流，使谷粒与空壳沿不同路径落下".
+
+Center: simple outlined hopper at top, a few mixed seed and husk symbols inside, short downward inlet. Label above "剩粮与空壳".
+On left, fan represented by a SMALL simple rectangle with minimal three-blade icon, label "风扇". Three thin teal horizontal arrows blow from left to right across the falling mixture. Label above arrows "气流".
+Golden grains fall almost vertically to a simple rectangular open collection box immediately beneath hopper. Add sparse dark-gray downward dotted trajectory ending above box. Label below box "谷粒".
+Pale gray hollow husks deflect to right, following one smooth dashed gray curved trajectory into a separate simple open rectangular bin to right. Label below that bin "空壳".
+Near grain path short text "较重，偏移小". Near husk path short text "较轻，随气流偏移".
+Both collection boxes identical plain outlines; only contents differ. No enclosing pseudo-machine housing. Diagram is conceptual with no implied exact internal layout.
+Bottom left small footnote: "原理示意，非实物内部结构".
+Keep text accurate and extremely legible. Do not add numbering, extra legend, extra paragraphs, slogans or icons. All arrows geometrically clear and non-overlapping with text. Flat vector-like appearance throughout.
